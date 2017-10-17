@@ -35,4 +35,4 @@ Arguments are:
 
 2) I am sending you the .exe that I created, the URL for GitHub and also the whole project zipped.
 
-3) Maybe I use a locomotor machine to carry out a simple job (refering to Spring Batch), but I did not wanted to give you guys a simple solution ;). 
+3) Maybe I use a locomotor machine to carry out a simple job (refering to Spring Batch), but I did not want to give you guys a simple solution ;). 
